@@ -64,7 +64,7 @@ pip install -r requirements.txt
 - [ ] Zero-shot classification using VLMs
 - [ ] Fine-tuning VLMs on custom data
 
-*(Check off as you cover each topic.)*
+
 
 ---
 
