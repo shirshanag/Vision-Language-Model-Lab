@@ -18,8 +18,8 @@ Personal hands-on experiment log from the **Vision-Language Models (VLM)** cours
 
 | # | Experiment | Description | Status |
 |---|------------|-------------|--------|
-| 1 | _Add your experiment_ | _Brief description_ | 🔄 In Progress |
-| 2 | _Add your experiment_ | _Brief description_ | ✅ Done |
+| 1 | Embeddings | In this experiment i have dealt with tokenization,text embedding, image embedding,cosine_similarity | ✅ Done|
+| 2 | coming soon.. | coming soon.. | ✅ Done |
 
 *(Update this table as you complete each hands-on exercise.)*
 
@@ -42,8 +42,8 @@ vlm-opencv-university/
 
 ```bash
 # Clone the repo
-git clone https://github.com/<your-username>/vlm-opencv-university.git
-cd vlm-opencv-university
+git clone https://github.com/shirshanag/Vision-Language-Model-Lab.git
+cd Vision-Language-Model-Lab
 
 # Create a virtual environment
 python -m venv venv
@@ -57,8 +57,8 @@ pip install -r requirements.txt
 
 ## 🔑 Key Concepts Explored
 
-- [ ] What are Vision-Language Models?
-- [ ] CLIP and contrastive learning
+- [x] What are Vision-Language Models?
+- [x] CLIP and contrastive learning
 - [ ] Image captioning with VLMs
 - [ ] Visual question answering (VQA)
 - [ ] Zero-shot classification using VLMs
@@ -84,5 +84,5 @@ Add your observations, takeaways, and "aha!" moments here as you progress throug
 
 ## 👤 Author
 
-**Your Name**  
+**Shirsha Nag**  
 Learning log maintained as part of OpenCV University coursework.
